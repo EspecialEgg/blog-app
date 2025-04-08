@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+html {
+  min-height: 100%;
+  background-color: #fffef5;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.3;
+  scroll-behavior: smooth;
+}
