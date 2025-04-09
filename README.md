@@ -20,8 +20,8 @@ Dette er en enkel bloggapp som bruker **GraphQL** for backend og **React** med *
 
 ### 1. Klon prosjektet
 
-### 2. Gå inn i /server-mappen og kjør "npm start". Ved suksess vises dette i konsollen: "🚀 Server ready at: http://localhost:4000/"
+### 2. Gå inn i /server-mappen og kjør "npm install" && "npm start". Ved suksess vises dette i konsollen: "🚀 Server ready at: http://localhost:4000/graphql"
 
-### Gå inn i /client-mappen og kjør "npm run dev". Åpne "http://localhost:5173/"
+### Gå inn i /client-mappen og kjør "npm install" && "npm run dev". Åpne "http://localhost:5173/"
 
 ### Du er klar til å sjekke ut prosjektet!
